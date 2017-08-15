@@ -1,0 +1,20 @@
+body {
+    background-color: #95AFCD;
+    
+    position: fixed;
+}
+
+div {
+    font-family: Gill Sans Extrabold, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    padding: 2px;
+    margin: auto;
+    border: 2px solid #EADCD6;
+    border-radius: 7px;
+    color: #4E2F1F;
+    width: 1000px;
+    height: 400px;
+     left: 400px;
+}
+
