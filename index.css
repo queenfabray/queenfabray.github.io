@@ -1,4 +1,5 @@
 body {
+  margin-top: 240px;
   text-align: center;
   display: block;
   background-image: url('https://hdwallsource.com/img/2017/3/minimalist-bridge-wallpaper-background-59193-60977-hd-wallpapers.jpg');
@@ -8,5 +9,4 @@ body {
 img {
   margin: 10px;
   display: inline;
-  height: 50%;
 }
